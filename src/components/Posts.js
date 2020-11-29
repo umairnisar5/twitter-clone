@@ -14,10 +14,10 @@ const Posts = () => {
           <img src="/images/profile.jpeg" alt="profile img" />
         </div>
         <div className="posts__first__name">
-          <strong>Muhammad Talha</strong> <FaRegCheckCircle className="verify" />
+          <strong>Umair Nisar</strong> <FaRegCheckCircle className="verify" />
         </div>
         <div className="posts__first__username">
-          @muhammadtalha <span>6m</span>
+          @umairnisar <span>6m</span>
         </div>
       </div>
       <div className="postss__details">
